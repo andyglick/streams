@@ -5,6 +5,9 @@
 .classpath
 .project
 
+# Maven
+target/
+
 # Intellij project files
 *.iml
 *.ipr
